@@ -23,10 +23,10 @@ import type {AnalyticsConfig} from "./types/analyticsTypes"
  *    All tags will be displayed in single page "/tags".
  */
 export const site = {
-  title: 'Astro Theme Yi', // required
+  title: 'Monmoon 's Blog', // required
   favicon: '/favicon.svg', // required
-  description: 'Welcome to my independent blog website! ',
-  author: "Astro-Yi", // required
+  description: 'Welcome to Monmoon"s Blog! ',
+  author: "Monmoon", // required
   avatar: '/avatar.png', // required
   url: 'https://astro-yi-nu.vercel.app', // required
   baseUrl: '', // When using GitHubPages, you must enter the repository name startWith '/'. e.g. '/astro-blog'
