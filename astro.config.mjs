@@ -22,7 +22,6 @@ import tailwindcss from '@tailwindcss/vite'
 // https://astro.build/config
 export default defineConfig({
   site: config.site,
-  base: '/blog',
   prefetch: { prefetchAll: true },
   markdown: {
     remarkRehype: { footnoteLabel: ' ' },
