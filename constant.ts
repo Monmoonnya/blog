@@ -1,7 +1,7 @@
 import type { PostModel } from './src/interfaces/post-model'
 
 export const config = {
-  site: 'https:/',
+  site: 'https://blog-18n.pages.dev/',
   description:
     '梦话留到梦里说。',
   siteName: 'MonmoonのBlog',
